@@ -23,6 +23,7 @@ namespace testing
         public MainWindow()
         {
             InitializeComponent();
+            //testing message 1
         }
     }
 }
