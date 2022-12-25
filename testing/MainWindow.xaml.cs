@@ -24,6 +24,8 @@ namespace testing
         {
             InitializeComponent();
             //testing message 1
+            //sun can you see me?
+            //yeah
         }
     }
 }
